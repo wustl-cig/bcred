@@ -53,7 +53,7 @@ sigSize = np.array(imgs[..., 0].shape)
 num_blocks = 16
 block_size = 40
 
-number_projections = 120  # set number of projections used for Radon transform
+number_projections = 90  # set number of projections used for Radon transform
 noiseLevel = 40    # change the noiseLevel here (corresponding to input SNR)
 
 # number iterations
