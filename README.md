@@ -30,9 +30,8 @@ $ python Demo_DnCNNstar_Radon.py
 To try with different settings, please open the script and follow the instruction inside.
 
 ### Citation
-```
 Y. Sun, J. Liu, and U. S. Kamilov, “Block Coordinate Regularization by Denoising,” Proc. Ann. Conf. Neural Information Processing Systems (NeurIPS 2019) (Vancouver, Canada, December 8-14), in press.
-
+```
 @conference{Sun.etal,
 Author = {Sun, Y. and Liu, J. and Kamilov, U. S.},
 Month = May,
