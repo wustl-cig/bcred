@@ -30,7 +30,7 @@ $ python Demo_DnCNNstar_Radon.py
 To try with different settings, please open the script and follow the instruction inside.
 
 ### Lipschitz Constrained Neural Networks
-We also provide the direct/residual convolutional neural network with the Lipschitz constant of 1 and 2, respectively. These denoising CNN are trained on the images from (fastMRI challenge)[https://fastmri.org/]. The pre-trained models are stored under the /models folder. Feel free to download and test them.
+We also provide the direct/residual convolutional neural network with the Lipschitz constant of 1 and 2, respectively. These denoising CNN are trained on the images from [fastMRI challenge](https://fastmri.org/). The pre-trained models are stored under the /models folder. Feel free to download and test them.
 
 ### Citation
 Y. Sun, J. Liu, and U. S. Kamilov, “Block Coordinate Regularization by Denoising,” Proc. Ann. Conf. Neural Information Processing Systems (NeurIPS 2019) (Vancouver, Canada, December 8-14), in press.
